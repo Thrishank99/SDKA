@@ -8,6 +8,7 @@ public class SpringbootDockerKubernateApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootDockerKubernateApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
